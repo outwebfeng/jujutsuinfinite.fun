@@ -18,6 +18,7 @@ export default async function Page({ params: { locale } }: Props) {
       title: t('hero.title'),
       description: t('hero.description'),
       playNow: t('hero.playNow'),
+      robloxUrl: t('hero.robloxUrl'),
     },
     videoSection: {
       title: t('videoSection.title'),
