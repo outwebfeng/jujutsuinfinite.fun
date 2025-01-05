@@ -56,18 +56,20 @@ export default async function AboutPage({ params: { locale } }: Props) {
 
       <section className='mt-12'>
         <h2 className='text-3xl font-bold mb-6'>{t('content.featuresTitle')}</h2>
-        {Object.entries(t.raw('content.features')).map(([key, feature]: [string, any]) => (
-          <div key={key} className='mb-6'>
-            <h3 className='text-2xl font-bold mb-2'>{feature.title}</h3>
-            <p>{feature.description}</p>
-          </div>
-        ))}
+        <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
+          {Object.entries(t.raw('content.features')).map(([key, feature]: [string, any]) => (
+            <div key={`feature-${key}`} className='bg-white p-6 rounded-lg shadow-md'>
+              <h3 className='text-xl font-bold mb-2'>{feature.title}</h3>
+              <p>{feature.description}</p>
+            </div>
+          ))}
+        </div>
       </section>
 
       <section className='mt-12'>
         <h2 className='text-3xl font-bold mb-6'>{t('content.howToPlayTitle')}</h2>
-        {t.raw('content.howToPlay').map((step: any, index: number) => (
-          <div key={index} className='mb-4'>
+        {t.raw('content.howToPlay').map((step: any) => (
+          <div key={`step-${step.title}`} className='mb-4'>
             <h3 className='text-xl font-bold mb-2'>{step.title}</h3>
             <p>{step.description}</p>
           </div>
@@ -76,8 +78,8 @@ export default async function AboutPage({ params: { locale } }: Props) {
 
       <section className='mt-12'>
         <h2 className='text-3xl font-bold mb-6'>{t('content.tipsTitle')}</h2>
-        {t.raw('content.tips').map((tip: any, index: number) => (
-          <div key={index} className='mb-4'>
+        {t.raw('content.tips').map((tip: any) => (
+          <div key={`tip-${tip.title}`} className='mb-4'>
             <h3 className='text-xl font-bold mb-2'>{tip.title}</h3>
             <p>{tip.description}</p>
           </div>

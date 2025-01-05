@@ -87,8 +87,8 @@ export default function CodesContent({ translations }: CodesContentProps) {
       <section className='mb-16'>
         <h2 className='mb-6 text-2xl font-bold text-gray-900'>{translations.howToRedeem.title}</h2>
         <div className='grid gap-6 md:grid-cols-2'>
-          {translations.howToRedeem.steps.map((step: any, index: number) => (
-            <div key={index} className='rounded-lg bg-sky-50 p-6'>
+          {translations.howToRedeem.steps.map((step: any) => (
+            <div key={`step-${step.title}`} className='rounded-lg bg-sky-50 p-6'>
               <h3 className='mb-2 text-xl font-bold text-gray-900'>{step.title}</h3>
               <p className='text-gray-600'>{step.description}</p>
             </div>
@@ -111,8 +111,8 @@ export default function CodesContent({ translations }: CodesContentProps) {
               </tr>
             </thead>
             <tbody className='divide-y divide-gray-200 bg-white'>
-              {translations.activeCodes.list.map((code: any, index: number) => (
-                <tr key={index}>
+              {translations.activeCodes.list.map((code: any) => (
+                <tr key={`active-${code.code}`}>
                   <td className='whitespace-nowrap px-6 py-4 font-mono text-sm font-bold text-blue-600'>{code.code}</td>
                   <td className='px-6 py-4 text-sm text-gray-900'>{code.reward}</td>
                   <td className='px-6 py-4 text-sm text-gray-500'>{code.description}</td>
@@ -136,8 +136,8 @@ export default function CodesContent({ translations }: CodesContentProps) {
               </tr>
             </thead>
             <tbody className='divide-y divide-gray-200'>
-              {translations.activeCodes.expired.list.map((code: any, index: number) => (
-                <tr key={index} className='bg-gray-50'>
+              {translations.activeCodes.expired.list.map((code: any) => (
+                <tr key={`expired-${code.code}`} className='bg-gray-50'>
                   <td className='whitespace-nowrap px-6 py-4 font-mono text-sm text-gray-500'>{code.code}</td>
                   <td className='px-6 py-4 text-sm text-gray-500'>{code.reward}</td>
                 </tr>
@@ -151,8 +151,8 @@ export default function CodesContent({ translations }: CodesContentProps) {
       <section className='mb-16'>
         <h2 className='mb-6 text-2xl font-bold text-gray-900'>{translations.tips.title}</h2>
         <div className='grid gap-6 md:grid-cols-2'>
-          {translations.tips.list.map((tip: any, index: number) => (
-            <div key={index} className='rounded-lg bg-white p-6 shadow'>
+          {translations.tips.list.map((tip: any) => (
+            <div key={`tip-${tip.title}`} className='rounded-lg bg-white p-6 shadow'>
               <h3 className='mb-2 text-xl font-bold text-gray-900'>{tip.title}</h3>
               <p className='text-gray-600'>{tip.description}</p>
             </div>
@@ -164,8 +164,8 @@ export default function CodesContent({ translations }: CodesContentProps) {
       <section className='mb-16'>
         <h2 className='mb-6 text-2xl font-bold text-gray-900'>{translations.commonIssues.title}</h2>
         <div className='space-y-6'>
-          {translations.commonIssues.list.map((issue: any, index: number) => (
-            <div key={index} className='rounded-lg bg-gray-50 p-6'>
+          {translations.commonIssues.list.map((issue: any) => (
+            <div key={`issue-${issue.problem}`} className='rounded-lg bg-gray-50 p-6'>
               <h3 className='mb-2 text-lg font-bold text-red-600'>{issue.problem}</h3>
               <p className='text-gray-600'>{issue.solution}</p>
             </div>

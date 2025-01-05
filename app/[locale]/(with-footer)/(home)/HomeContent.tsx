@@ -2,7 +2,6 @@
 
 import dynamic from 'next/dynamic';
 import YouTubeVideo from '@/components/video/YouTubeVideo';
-import Link from 'next/link';
 
 const ScrollToTop = dynamic(() => import('@/components/page/ScrollToTop'), { ssr: false });
 
@@ -39,6 +38,7 @@ interface HomeContentProps {
       list: Array<{
         content: string;
         author: string;
+        title: string;
       }>;
     };
     faq: {
@@ -73,9 +73,9 @@ export default function HomeContent({ translations }: HomeContentProps) {
               {translations.hero.description}
             </p>
             <a
-              href="https://www.roblox.com/games/18505741738/Jujutsu-Infinite-12-HOURS"
-              target="_blank"
-              rel="noopener noreferrer"
+              href={translations.hero.robloxUrl}
+              target='_blank'
+              rel='noopener noreferrer'
               className='inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white bg-[rgb(54,198,255)] hover:bg-[rgb(44,188,245)] rounded-lg transition-colors duration-200 transform hover:scale-105'
             >
               {translations.hero.playNow}
