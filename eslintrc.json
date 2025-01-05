@@ -10,7 +10,7 @@
   "plugins": ["prettier"],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
-    "project": "./tsconfig.json"
+    "project": "./tsconfig.eslint.json"
   },
   "rules": {
     "react/react-in-jsx-scope": "off",
@@ -32,9 +32,12 @@
   },
   "overrides": [
     {
-      "files": ["*.js"],
+      "files": ["*.js", "*.cjs", "*.mjs"],
       "rules": {
         "@typescript-eslint/no-var-requires": "off"
+      },
+      "parserOptions": {
+        "project": null
       }
     }
   ]
