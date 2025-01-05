@@ -6,22 +6,19 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint --cache --fix",
+    "lint": "next lint --cache",
     "lint:fix": "eslint --fix .",
     "prettier": "prettier --write .",
-    "fix:linebreaks": "node scripts/fix-linebreaks.js",
     "prepare": "husky"
   },
   "lint-staged": {
-    "*.{ts,tsx}": [
-      "eslint --quiet --fix"
-    ],
-    "*.{js,jsx}": [
+    "*.{js,jsx,ts,tsx}": [
+      "eslint --quiet --fix",
       "prettier --write"
     ]
   },
   "engines": {
-    "node": "^20.0.0"
+    "node": "20.x"
   },
   "packageManager": "pnpm@7.14.0",
   "dependencies": {

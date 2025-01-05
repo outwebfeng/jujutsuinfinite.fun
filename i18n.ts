@@ -8,37 +8,34 @@ export const languages = [
     lang: 'en',
     label: 'English',
   },
-  // {
-  //   code: 'es-ES',
-  //   lang: 'es',
-  //   label: 'Español',
-  // },
-  // {
-  //   code: 'fr-FR',
-  //   lang: 'fr',
-  //   label: 'Français',
-  // },
-  // {
-  //   code: 'ja-JP',
-  //   lang: 'jp',
-  //   label: '日本語',
-  // },
-  // {
-  //   code: 'zh-TW',
-  //   lang: 'tw',
-  //   label: '繁體中文',
-  // },
-  // {
-  //   code: 'ko-KR',
-  //   lang: 'ko',
-  //   label: '한국어',
-  // },
+  {
+    code: 'es-ES',
+    lang: 'es',
+    label: 'Español',
+  },
+  {
+    code: 'fr-FR',
+    lang: 'fr',
+    label: 'Français',
+  },
+  {
+    code: 'ja-JP',
+    lang: 'jp',
+    label: '日本語',
+  },
+  {
+    code: 'zh-TW',
+    lang: 'tw',
+    label: '繁體中文',
+  },
+  {
+    code: 'ko-KR',
+    lang: 'ko',
+    label: '한국어',
+  },
 ];
 
-export const locales = ['en', 'zh'] as const;
-export const defaultLocale = 'en' as const;
-
-export type Locale = (typeof locales)[number];
+export const locales = ['en', 'es', 'fr', 'jp', 'tw', 'ko'];
 
 export default getRequestConfig(async ({ locale }) => {
   if (!locales.includes(locale as any)) notFound();
