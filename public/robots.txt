@@ -1,0 +1,4 @@
+Sitemap: https://jujutsuinfinite.fun/sitemap.xml
+
+User-agent: *
+Allow: /
