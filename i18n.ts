@@ -35,7 +35,10 @@ export const languages = [
   // },
 ];
 
-export const locales = ['en'];
+export const locales = ['en', 'zh'] as const;
+export const defaultLocale = 'en' as const;
+
+export type Locale = (typeof locales)[number];
 
 export default getRequestConfig(async ({ locale }) => {
   if (!locales.includes(locale as any)) notFound();
