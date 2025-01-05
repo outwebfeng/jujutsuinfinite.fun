@@ -93,8 +93,8 @@ export default async function AboutPage({ params: { locale } }: Props) {
 
       <section className='mt-12'>
         <h2 className='text-3xl font-bold mb-6'>{t('content.faqTitle')}</h2>
-        {t.raw('content.faq').map((item: any, index: number) => (
-          <div key={index} className='mb-4'>
+        {t.raw('content.faq').map((item: any) => (
+          <div key={`faq-${item.question}`} className='mb-4'>
             <h3 className='text-xl font-bold mb-2'>{item.question}</h3>
             <p>{item.answer}</p>
           </div>

@@ -39,7 +39,7 @@ interface HomeContentProps {
         content: string;
         author: string;
         title: string;
-      }>;
+      }>,
     };
     faq: {
       title: string;
@@ -61,7 +61,7 @@ export default function HomeContent({ translations }: HomeContentProps) {
         id='hero' 
         className='relative flex min-h-[80vh] items-center justify-center w-full bg-cover bg-center bg-no-repeat bg-gray-900'
         style={{
-          background: 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/hero-bg.jpg") center/cover no-repeat'
+          background: 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/hero-bg.jpg") center/cover no-repeat',
         }}
       >
         <div className='relative z-10 mx-auto w-full max-w-pc px-4 text-center sm:px-6 lg:px-8'>
