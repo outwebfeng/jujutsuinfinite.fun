@@ -1,133 +1,118 @@
-# Squid Game Thanos
+# Jujutsu Infinite
 
-一个基于 Next.js 14 构建的多语言游戏网站，集成了 Squid Game 在线游戏。
+一个基于 Next.js 14 构建的现代化网站，支持多语言、暗黑模式等特性。
 
 ## 技术栈
 
-- **框架**: Next.js 14 (App Router)
-- **样式**: Tailwind CSS
+- **框架**: Next.js 14
 - **语言**: TypeScript
+- **样式**: Tailwind CSS
+- **包管理**: pnpm
 - **国际化**: next-intl
-- **代码规范**: ESLint, Prettier
-- **包管理**: npm/yarn
+- **UI组件**: Radix UI
+- **代码规范**: ESLint + Prettier
+- **Git Hooks**: Husky
 
-## 主要特性
+## 特性
 
-- 🌐 多语言支持 (en, tw, jp, es, fr)
-- 🎮 集成在线游戏
+- 🌍 多语言支持 (en, tw, jp, ko, fr, es)
+- 🌓 明暗主题切换
+- 🚀 Edge Runtime 支持
 - 📱 响应式设计
-- 🎨 现代化 UI/UX
 - 🔍 SEO 优化
-- 🚀 快速加载
+- 🛠 TypeScript 类型安全
+- 🎨 Tailwind CSS 样式
+- 📦 零运行时 CSS-in-JS
+
+## 开发要求
+
+- Node.js 20.x
+- pnpm 7.14.0+
+
+## 快速开始
+
+1. 克隆项目
+
+```bash
+git clone [your-repository-url]
+cd jujutsuinfinite.fun
+```
+
+2. 安装依赖
+
+```bash
+pnpm install
+```
+
+3. 配置环境变量
+
+```bash
+cp .env.example .env.local
+```
+
+4. 启动开发服务器
+
+```bash
+pnpm dev
+```
+
+访问 [http://localhost:3000](http://localhost:3000) 查看网站。
+
+## 构建部署
+
+```bash
+pnpm build
+pnpm start
+```
 
 ## 项目结构
-squidgamethanos/
-├── app/ # Next.js 14 应用目录
-│ ├── [locale]/ # 多语言路由
-│ │ ├── (with-footer) # 带页脚的布局组
-│ │ └── layout.tsx # 根布局
-├── components/ # React 组件
-│ ├── home/ # 首页相关组件
-│ └── page/ # 通用页面组件
-├── messages/ # 多语言翻译文件
-├── public/ # 静态资源
-│ └── images/ # 图片资源
-└── styles/ # 全局样式
 
-## 核心功能
+```
+├── app/                # Next.js 应用目录
+├── components/         # React 组件
+├── lib/               # 工具函数和配置
+├── messages/          # 国际化翻译文件
+├── public/            # 静态资源
+└── styles/            # 全局样式
+```
 
-1. **首页内容**
-   - Hero 区域展示游戏
-   - 游戏特性介绍
-   - 游戏玩法说明
-   - 玩家评价展示
-   - FAQ 常见问题
+## 代码规范
 
-2. **导航功能**
-   - 响应式导航菜单
-   - 平滑滚动
-   - 语言切换
+项目使用 ESLint 和 Prettier 进行代码规范和格式化：
 
-3. **游戏集成**
-   - 内嵌游戏框架
-   - 安全沙箱配置
-   - 全屏支持
+```bash
+# 运行 lint 检查
+pnpm lint
 
-## 开发指南
+# 修复 lint 问题
+pnpm lint:fix
 
-### 环境要求
-
-- Node.js 18+
-- npm 或 yarn
-
-### 安装
-bash
-克隆项目
-git clone https://github.com/yourusername/squidgamethanos.git
-安装依赖
-cd squidgamethanos
-npm install
-或
-yarn install
-
-### 开发命令
-bash
-开发环境运行
-npm run dev
-或
-yarn dev
-构建项目
-npm run build
-或
-yarn build
-生产环境运行
-npm run start
-或
-yarn start
-
-### 环境变量
-
-创建 `.env.local` 文件并配置以下变量：
-env
-NEXT_PUBLIC_BASE_URL=your_base_url
-
+# 格式化代码
+pnpm prettier
+```
 
 ## 国际化
 
-项目使用 next-intl 进行国际化管理，支持以下语言：
+项目支持多语言切换，语言文件位于 `messages/` 目录：
 
-- 英语 (en)
+- 英语 (en) - 默认语言
 - 繁体中文 (tw)
 - 日语 (jp)
-- 西班牙语 (es)
+- 韩语 (ko)
 - 法语 (fr)
-
-翻译文件位于 `messages/` 目录下。
-
-## 部署
-
-项目可以部署到任何支持 Node.js 的平台：
-
-- Vercel (推荐)
-- Netlify
-- 自托管服务器
+- 西班牙语 (es)
 
 ## 贡献指南
 
 1. Fork 项目
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
+2. 创建特性分支 (`git checkout -b feature/amazing-feature`)
+3. 提交更改 (`git commit -m 'Add some amazing feature'`)
+4. 推送到分支 (`git push origin feature/amazing-feature`)
+5. 提交 Pull Request
 
 ## 许可证
 
-[MIT License](LICENSE)
-
-## 联系方式
-
-- Website: [squidgamethanos.com](https://squidgamethanos.com)
-- Email: support@squidgamethanos.com
+本项目基于 MIT 许可证开源 - 查看 [LICENSE](LICENSE) 文件了解更多信息。
 
 
 
