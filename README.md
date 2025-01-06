@@ -110,6 +110,10 @@ pnpm prettier
 4. 推送到分支 (`git push origin feature/amazing-feature`)
 5. 提交 Pull Request
 
+## 访问网站
+
+[https://jujutsuinfinite.fun](https://jujutsuinfinite.fun)
+
 ## 许可证
 
 本项目基于 MIT 许可证开源 - 查看 [LICENSE](LICENSE) 文件了解更多信息。
