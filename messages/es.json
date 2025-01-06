@@ -1,495 +1,409 @@
 {
-  "Common": {
-    "loading": "loading..."
-  },
-  "Metadata": {
-    "home": {
-      "title": "Jujutsu Infinite Codes, Tips, and Gameplay Guide",
-      "description": "Explore the ultimate guide to Jujutsu Infinite on Roblox! Find the latest codes, gameplay tips, and tier lists. Play now and master cursed techniques with ease!",
-      "keywords": ""
-    },
-    "about": {
-      "title": "About Jujutsu Infinite - Character Analysis and Story Background",
-      "description": "Discover the story behind Jujutsu Infinite, portrayed by T.O.P (Choi Seung-hyun). Learn about this unique character's role, impact, and the fusion of dystopian drama with Marvel's influence.",
-      "keywords": ""
-    },
-    "download": {
-      "title": "Download Jujutsu Infinite Tips - Get the Ultimate Survival Game",
-      "description": "Download Jujutsu Infinite Tips now and experience the thrilling survival challenges. Watch our gameplay video and join millions of players worldwide!",
-      "keywords": ""
-    },
-    "codes": {
-      "title": "Jujutsu Infinite Codes - Latest Working Codes and Rewards",
-      "description": "Find all the latest working codes for Jujutsu Infinite! Redeem these codes for free rewards, boosts, and in-game items. Updated regularly with new codes!",
-      "keywords": ""
-    }
-  },
-  "Navigation": {
-    "title": "Jujutsu Infinite Codes, Tips, and Gameplay Guide",
-    "logoAlt": "Jujutsu Infinite Logo",
-    "logoTitle": "Jujutsu Infinite",
-    "playNow": "Home",
-    "toggleMenu": "Toggle Menu",
-    "about": "About",
-    "download": "Download",
-    "codes": "Codes"
-  },
-  "NotFound": {
-    "title": "404 Not Found",
-    "goHome": "go home"
-  },
-  "Home": {
-    "hero": {
-      "title": "Jujutsu Infinite",
-      "description": "Explore the ultimate guide to Jujutsu Infinite on Roblox! Find the latest codes, gameplay tips, and tier lists. Play now and master cursed techniques with ease!",
-      "playNow": "Play Now",
-      "robloxUrl": "https://www.roblox.com/games/18505741738/Jujutsu-Infinite-12-HOURS"
-    },
-    "videoSection": {
-      "title": "Related Videos"
-    },
-    "introduction": {
-      "title": "How to Play Jujutsu Infinite",
-      "description": "Master the basics and become a pro!",
-      "steps": [
-        {
-          "title": "Getting Started with Jujutsu Infinite",
-          "description": "To begin your journey in Jujutsu Infinite, visit the official game page on Roblox and launch the game. Customize your character and choose your innate cursed technique to gain unique powers. Familiarize yourself with the controls and interface to navigate the game effortlessly. Don’t forget to redeem the latest codes for free rewards that will give you a head start!"
-        },
-        {
-          "title": "Mastering Cursed Techniques and Gameplay Mechanics",
-          "description": "Jujutsu Infinite revolves around mastering cursed techniques and engaging in epic battles. Learn how to unlock and upgrade your skills by earning experience points through quests and battles. Experiment with different techniques to discover the best combinations for your playstyle. Stay alert during encounters and practice dodging and timing for efficient combat strategies."
-        },
-        {
-          "title": "Advancing and Unlocking Rewards",
-          "description": "Progress in the game by completing quests, defeating powerful enemies, and teaming up with other players. Earn in-game currency to unlock new abilities, gear, and upgrades. Keep an eye out for limited-time events and updates that bring exciting new content to enhance your gameplay experience. Visit our website regularly for tips, guides, and code updates to stay ahead in the game!"
-        }
-      ]
-    },
-    "features": {
-      "title": "Game Features",
-      "description": "Discover what makes Jujutsu Infinite special",
-      "list": [
-        {
-          "title": "Unique Cursed Techniques",
-          "description": "Discover and master a variety of innate cursed techniques, each with its own unique abilities and combat styles. Customize your character to suit your playstyle and dominate battles."
-        },
-        {
-          "title": "Engaging Quests and Challenges",
-          "description": "Embark on thrilling quests and face challenging enemies as you progress through the game. Complete missions to earn rewards, level up, and unlock powerful upgrades."
-        },
-        {
-          "title": "Multiplayer Battles and Collaboration",
-          "description": "Team up with friends or compete against other players in intense multiplayer battles. Test your skills in PvP combat or join forces to tackle powerful bosses."
-        },
-        {
-          "title": "Code Redemption for Free Rewards",
-          "description": "Stay ahead by redeeming codes for free rewards, including in-game currency, boosts, and exclusive items. Regular updates ensure fresh codes and exciting perks."
-        },
-        {
-          "title": "Immersive World Inspired by Jujutsu Kaisen",
-          "description": "Explore a richly designed game world inspired by the popular anime series Jujutsu Kaisen. Experience stunning visuals, dynamic environments, and thrilling gameplay."
-        },
-        {
-          "title": "Constant Updates and New Content",
-          "description": "Enjoy frequent updates that bring new features, events, and enhancements to keep the game exciting. Stay tuned for fresh challenges and unlockable rewards."
-        }
-      ]
-    },
-    "testimonials": {
-      "title": "Player Reviews",
-      "description": "See what fans are saying about Jujutsu Infinite",
-      "list": [
-        {
-          "content": "Jujutsu Infinite brings the world of Jujutsu Kaisen to life! The cursed techniques are so unique, and the battles are intense. I can't stop playing!",
-          "author": "@CursedFighter",
-          "title": "An Epic Adventure!"
-        },
-        {
-          "content": "The graphics, quests, and combat mechanics are top-notch. It feels like I'm really in the anime. Plus, the code rewards are a huge bonus!",
-          "author": "@AnimeGamerX",
-          "title": "Best Roblox Game Ever!"
-        },
-        {
-          "content": "From teaming up with friends to exploring the map, this game keeps me hooked. Unlocking new abilities is so satisfying!",
-          "author": "@QuestMaster",
-          "title": "Addictive and Fun!"
-        },
-        {
-          "content": "As a fan of the anime, I love how they've incorporated the themes into this game. It's challenging, rewarding, and super fun!",
-          "author": "@KaisenLover",
-          "title": "A Must-Play for Jujutsu Kaisen Fans!"
-        },
-        {
-          "content": "I appreciate how often the game gets updated with new codes, events, and features. There's always something new to try!",
-          "author": "@CodeHunter21",
-          "title": "Constant Updates Keep It Fresh!"
-        },
-        {
-          "content": "The game makes you think about your moves while keeping the action fast-paced. It's the perfect blend of strategy and fun!",
-          "author": "@BattleTactician",
-          "title": "Perfect Balance of Strategy and Action!"
-        }
-      ]
-    },
-    "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Got questions? We've got answers!",
-      "list": [
-        {
-          "question": "What is Jujutsu Infinite?",
-          "answer": "Jujutsu Infinite is a popular Roblox game inspired by the anime Jujutsu Kaisen. Players can master cursed techniques, complete quests, and engage in epic battles."
-        },
-        {
-          "question": "How do I play Jujutsu Infinite?",
-          "answer": "Visit the game's page on Roblox, launch it, and create your character. Follow the tutorial to learn the basics and start your journey by completing quests and battling enemies."
-        },
-        {
-          "question": "Are there any codes for Jujutsu Infinite?",
-          "answer": "Yes! Codes are regularly released and can be redeemed for rewards like in-game currency and boosts. Check our website for the latest codes."
-        },
-        {
-          "question": "How do I redeem codes in Jujutsu Infinite?",
-          "answer": "To redeem codes, open the game, navigate to the code redemption section (usually in the settings or menu), enter the code, and claim your rewards."
-        },
-        {
-          "question": "Can I play Jujutsu Infinite with friends?",
-          "answer": "Absolutely! Jujutsu Infinite supports multiplayer gameplay. You can team up with friends to complete quests and defeat bosses or challenge them in PvP battles."
-        },
-        {
-          "question": "What are cursed techniques in Jujutsu Infinite?",
-          "answer": "Cursed techniques are unique abilities that give players special powers in combat. Each technique has its own strengths and can be upgraded as you progress."
-        },
-        {
-          "question": "How do I level up my character?",
-          "answer": "You can level up by completing quests, defeating enemies, and participating in battles. Earning experience points (XP) will help you unlock new abilities and gear."
-        },
-        {
-          "question": "Are there in-game purchases in Jujutsu Infinite?",
-          "answer": "Yes, you can purchase in-game currency and items to enhance your experience. However, the game is fully playable without spending real money."
-        },
-        {
-          "question": "Is Jujutsu Infinite beginner-friendly?",
-          "answer": "Yes! The game features a tutorial for new players and plenty of guides to help you get started. Plus, codes and free rewards make it easier to progress."
-        },
-        {
-          "question": "How often is Jujutsu Infinite updated?",
-          "answer": "The developers regularly update the game with new content, events, and features. Make sure to check for updates and stay tuned for fresh challenges and rewards!"
-        }
-      ]
-    }
-  },
-  "Footer": {
-    "title": "Jujutsu Infinite Codes, Tips, and Gameplay Guide",
-    "subTitle": "Explore the ultimate guide to Jujutsu Infinite on Roblox!",
-    "support": "Support",
-    "privacy": "Privacy Policy",
-    "termsConditions": "Terms & Conditions"
-  },
-  "FooterNavigation": {
-    "privacyPolicy": {
-      "1-h1": "Privacy Policy for Jujutsu Infinite",
-      "1-p": "Jujutsu Infinite operates the website https://jujutsuinfinite.fun and is committed to protecting your privacy. This privacy policy outlines how we handle information when you use our online game guide.",
-      "2-h2": "Information Collection",
-      "2-h3-1": "Personal Data",
-      "2-p-1": "We do not collect any personal identification information from users. Our service is designed to be used without requiring personal data.",
-      "2-h3-2": "Non-Personal Data",
-      "2-p-3": "We collect non-personal data through web cookies, including usage statistics and preferences, to improve our service and user experience. This may include your display settings and customization preferences.",
-      "3-h2": "Data Usage",
-      "3-p": "Any collected non-personal data is used solely to enhance the functionality of our website and improve user experience. We do not share any data with third parties.",
-      "4-h2": "Updates to This Privacy Policy",
-      "6-h2": "Contact Us",
-      "6-p": "If you have any questions about this Privacy Policy, please contact us at support@jujutsuinfinite.fun."
-    },
-    "termsConditions": {
-      "1-h1": "Terms of Service for Jujutsu Infinite",
-      "1-p": "Welcome to Jujutsu Infinite. By accessing our website (https://jujutsuinfinite.fun), you agree to these Terms of Service. Our service provides a comprehensive guide for the Jujutsu Infinite Roblox game.",
-      "2-h2": "1. Ownership",
-      "2-p": "All content on the Website, including guides, tips, codes, design elements, and related materials, is the intellectual property of Jujutsu Infinite unless otherwise stated. The text content created by users remains their property.",
-      "3-h2": "2. Usage Guidelines",
-      "3-p": "Our service is provided for informational and educational purposes. Users are responsible for their conduct and should not use the service for any illegal or harmful purposes.",
-      "4-h2": "3. Governing Law",
-      "4-p": "These Terms shall be governed by applicable laws, without regard to conflicts of law principles.",
-      "5-h2": "4. Changes to Terms",
-      "5-p": "Jujutsu Infinite reserves the right to modify these Terms at any time. Changes will be effective immediately upon posting to the website. Your continued use of the service constitutes acceptance of any changes.",
-      "6-h2": "5. Contact Information",
-      "6-p": "If you have any questions about these Terms, please contact us at support@jujutsuinfinite.fun.",
-      "last-p": "By using Jujutsu Infinite, you acknowledge that you have read and agree to these Terms of Service."
-    }
-  },
-  "About": {
-    "title": "About Jujutsu Infinite",
-    "subtitle": "Your Ultimate Guide to the World of Jujutsu Infinite",
-    "content": {
-      "introTitle": "Welcome",
-      "intro": "Welcome to the ultimate destination for everything related to Jujutsu Infinite, the thrilling Roblox game inspired by the anime masterpiece Jujutsu Kaisen. This page serves as your comprehensive guide to the world of Jujutsu Infinite, where you can explore gameplay mechanics, unique features, and the vibrant community that makes this game truly special.",
-      
-      "whatIsTitle": "What is Jujutsu Infinite?",
-      "whatIs": "Jujutsu Infinite is a popular game on Roblox that takes players into an action-packed world filled with cursed techniques, epic battles, and immersive quests. Drawing inspiration from Jujutsu Kaisen, it brings the anime's essence into a dynamic gaming experience. Whether you're a fan of the anime or new to its universe, Jujutsu Infinite offers a rich and engaging adventure for players of all skill levels.",
-      "whatIsExtra": "In the game, players embark on a journey to master cursed techniques, fight powerful enemies, and level up their characters through various challenges. With frequent updates, exciting events, and a vibrant community, Jujutsu Infinite keeps players hooked for hours of gameplay.",
-
-      "featuresTitle": "Key Features of Jujutsu Infinite",
-      "features": {
-        "cursedTechniques": {
-          "title": "Unique Cursed Techniques",
-          "description": "At the heart of Jujutsu Infinite lies its cursed techniques. These unique abilities define your gameplay style and determine your success in battles. From long-range attacks to devastating close-combat moves, the variety of techniques ensures every player can find a style that suits them."
-        },
-        "quests": {
-          "title": "Exciting Quests and Challenges",
-          "description": "The game offers an array of quests that test your skills and reward your efforts. Completing missions not only helps you progress but also unlocks new abilities and rewards. Boss battles add an extra layer of excitement, challenging players to strategize and work as a team."
-        },
-        "multiplayer": {
-          "title": "Multiplayer Collaboration and PvP Battles",
-          "description": "Jujutsu Infinite thrives on its multiplayer mode. Join forces with friends to tackle tough challenges or test your skills against other players in thrilling PvP battles. The cooperative and competitive aspects make the game highly engaging."
-        },
-        "world": {
-          "title": "Immersive Anime-Inspired World",
-          "description": "The game's world captures the essence of Jujutsu Kaisen with stunning visuals and dynamic environments. Explore detailed landscapes, interact with NPCs, and immerse yourself in a world full of surprises."
-        },
-        "codes": {
-          "title": "Code Rewards and Freebies",
-          "description": "Players can redeem codes for free rewards like in-game currency, power boosts, and exclusive items. Regular updates ensure there are always new codes to claim, helping you stay ahead in the game."
-        },
-        "updates": {
-          "title": "Constant Updates and New Content",
-          "description": "Jujutsu Infinite developers are committed to delivering fresh content through regular updates. From new cursed techniques to special events, there's always something exciting to look forward to."
-        }
-      },
-
-      "howToPlayTitle": "How to Play Jujutsu Infinite",
-      "howToPlay": [
-        {
-          "title": "Launch the Game",
-          "description": "Visit the official Roblox page for Jujutsu Infinite and start the game. Create your character and select your innate cursed technique."
-        },
-        {
-          "title": "Complete Quests",
-          "description": "Begin your adventure by completing quests. These missions will introduce you to the game's mechanics, help you level up, and earn rewards."
-        },
-        {
-          "title": "Master Combat Mechanics",
-          "description": "Combat is a core element of Jujutsu Infinite. Practice using your cursed techniques and hone your skills to dominate in battles."
-        },
-        {
-          "title": "Team Up or Compete",
-          "description": "Join forces with other players to take on challenging quests or test your strength in PvP battles."
-        },
-        {
-          "title": "Redeem Codes",
-          "description": "Make sure to redeem the latest codes for bonuses and exclusive items that give you an edge in the game."
-        }
-      ],
-
-      "tipsTitle": "Tips for Success in Jujutsu Infinite",
-      "tips": [
-        {
-          "title": "Experiment with Techniques",
-          "description": "Try different cursed techniques to find the one that matches your playstyle. Experimentation is key to mastering the game."
-        },
-        {
-          "title": "Stay Updated",
-          "description": "Keep an eye on game updates and new codes. Regularly checking the official website or fan pages ensures you never miss out on valuable rewards."
-        },
-        {
-          "title": "Collaborate with Other Players",
-          "description": "Teamwork often leads to success in difficult quests. Partner with experienced players to learn advanced strategies."
-        },
-        {
-          "title": "Invest in Upgrades",
-          "description": "Use in-game currency wisely to unlock and upgrade abilities. This can give you a significant advantage in battles."
-        },
-        {
-          "title": "Participate in Events",
-          "description": "Limited-time events often provide exclusive rewards and unique gameplay experiences. Don't miss out on these opportunities."
-        }
-      ],
-
-      "communityTitle": "The Community Behind Jujutsu Infinite",
-      "community": "The Jujutsu Infinite community is one of the most vibrant and welcoming on Roblox. Players actively share tips, strategies, and code updates on platforms like Discord and Reddit. Whether you're looking for advice, a team to join, or just some fun conversations, the community adds an extra layer of enjoyment to the game.",
-
-      "faqTitle": "Frequently Asked Questions",
-      "faq": [
-        {
-          "question": "What is Jujutsu Infinite about?",
-          "answer": "It's a Roblox game inspired by Jujutsu Kaisen, where players master cursed techniques, complete quests, and engage in battles."
-        },
-        {
-          "question": "How do I redeem codes?",
-          "answer": "Codes can be redeemed in the game's menu. Simply enter the code in the designated field and claim your rewards."
-        },
-        {
-          "question": "Can I play with friends?",
-          "answer": "Yes! Multiplayer mode allows you to team up with friends or challenge them in PvP."
-        },
-        {
-          "question": "Are there in-game purchases?",
-          "answer": "Yes, players can purchase currency and items, though the game is fully playable without spending real money."
-        },
-        {
-          "question": "How often is the game updated?",
-          "answer": "The developers release frequent updates with new content, features, and codes."
-        }
-      ],
-
-      "conclusionTitle": "Join the Adventure Today",
-      "conclusion": "Whether you're a fan of Jujutsu Kaisen or a gamer seeking thrilling adventures, Jujutsu Infinite delivers an unforgettable experience. From mastering cursed techniques to collaborating with a passionate community, the game offers endless excitement. Start your journey today and become a legend in the world of Jujutsu Infinite!"
-    }
-  },
-  "Codes": {
-    "title": "Jujutsu Infinite Codes",
-    "subtitle": "Get the Latest Working Codes and Rewards",
-    "videoSection": {
-      "title": "How to Redeem Codes",
-      "description": "Watch our quick guide on how to redeem codes in Jujutsu Infinite"
-    },
-    "introduction": {
-      "title": "About Jujutsu Infinite Codes",
-      "description": "Codes are special rewards provided by the game developers that can be redeemed for various in-game items, currency, and boosts. These codes are regularly released to celebrate milestones, updates, or special events. Make sure to redeem them quickly as they may expire!"
-    },
-    "howToRedeem": {
-      "title": "How to Redeem Codes",
-      "steps": [
-        {
-          "title": "1. Launch the Game",
-          "description": "Start Jujutsu Infinite on Roblox and wait for the game to fully load."
-        },
-        {
-          "title": "2. Open Code Menu",
-          "description": "Click on the Menu button (usually represented by three lines or a gear icon), then look for the 'Codes' or 'Redeem Code' option."
-        },
-        {
-          "title": "3. Enter the Code",
-          "description": "Type or paste the code exactly as shown (codes are case-sensitive). Double-check for any typos or spaces."
-        },
-        {
-          "title": "4. Claim Your Reward",
-          "description": "Click the 'Redeem' or 'Submit' button. If the code is valid, you'll receive your rewards immediately!"
-        }
-      ]
-    },
-    "activeCodes": {
-      "title": "Active Codes (Updated Regularly)",
-      "description": "Here are all the currently working codes for Jujutsu Infinite. We update this list regularly as new codes are released and old ones expire.",
-      "note": "Note: Codes are case-sensitive and must be entered exactly as shown",
-      "list": [
-        {
-          "code": "TWITTER_75_YAY",
-          "reward": "100 Spins + 1h Double EXP",
-          "description": "Twitter milestone celebration"
-        },
-        {
-          "code": "HAPPY_2025",
-          "reward": "100 Spins + 1h Double EXP + Double Mastery",
-          "description": "New Year celebration"
-        },
-        {
-          "code": "50K_FOLLOWERS",
-          "reward": "50 Spins + 1h Double EXP",
-          "description": "Social media milestone"
-        },
-        {
-          "code": "MERRY_CHRISTMAS",
-          "reward": "100 Spins",
-          "description": "Christmas celebration"
-        },
-        {
-          "code": "RELEASE",
-          "reward": "200 Spins",
-          "description": "Game release celebration"
-        }
-      ],
-      "expired": {
-        "title": "Expired Codes for Reference",
-        "description": "These codes are no longer active, but they give a sense of past rewards available in the game:",
-        "list": [
-          {
-            "code": "JJ_SHUTDOWN",
-            "reward": "25 Spins"
-          },
-          {
-            "code": "BACK_UP_AGAIN",
-            "reward": "25 Spins + 1h Double EXP"
-          },
-          {
-            "code": "TOP_SECRET",
-            "reward": "150 Spins"
-          },
-          {
-            "code": "MISSION_SHUTDOWN",
-            "reward": "50 Spins"
-          },
-          {
-            "code": "RELEASE_SHUTDOWN_SRRY",
-            "reward": "200 Spins"
-          },
-          {
-            "code": "WAVE3_PATCH",
-            "reward": "Spins"
-          },
-          {
-            "code": "WELCOME_WAVE3",
-            "reward": "Spins"
-          },
-          {
-            "code": "DIM_MAX",
-            "reward": "Spins"
-          },
-          {
-            "code": "UPDATE_3",
-            "reward": "Spins"
-          },
-          {
-            "code": "350K_YAY",
-            "reward": "Spins"
-          },
-          {
-            "code": "ROLLBACK_SRRY",
-            "reward": "Spins"
-          }
-        ]
-      }
-    },
-    "tips": {
-      "title": "Tips for Code Redemption",
-      "list": [
-        {
-          "title": "Check Regularly",
-          "description": "New codes are often released during updates, events, and milestones. Check our page regularly for the latest codes."
-        },
-        {
-          "title": "Act Quickly",
-          "description": "Codes can expire without notice. Redeem them as soon as possible to ensure you don't miss out on rewards."
-        },
-        {
-          "title": "Follow Official Channels",
-          "description": "Follow the game's official social media accounts and join their Discord server for code announcements."
-        },
-        {
-          "title": "Bookmark This Page",
-          "description": "We update our codes list regularly. Bookmark this page to stay informed about new codes and rewards."
-        }
-      ]
-    },
-    "commonIssues": {
-      "title": "Common Issues and Solutions",
-      "list": [
-        {
-          "problem": "Code Not Working",
-          "solution": "Ensure you're entering the code exactly as shown, including any capital letters or special characters. Codes are case-sensitive."
-        },
-        {
-          "problem": "Already Redeemed",
-          "solution": "Each code can only be redeemed once per account. Try a different code if you've already used this one."
-        },
-        {
-          "problem": "Code Expired",
-          "solution": "Codes eventually expire. Check our active codes section for the latest working codes."
-        }
-      ]
-    },
-    "updates": {
-      "title": "Code Updates and News",
-      "description": "We constantly monitor for new Jujutsu Infinite codes and update this page as soon as they're released. Follow us on social media or join our Discord community to get instant notifications about new codes!"
-    }
-  }
+	"Common": {
+		"loading": "cargando..."
+	},
+	"Metadata": {
+		"home": {
+			"title": "Códigos, Consejos y Guía de Juego de Jujutsu Infinite",
+			"description": "¡Explora la guía definitiva de Jujutsu Infinite en Roblox! Encuentra los códigos más recientes, consejos de juego y listas de niveles. ¡Juega ahora y domina las técnicas malditas con facilidad!",
+			"keywords": ""
+		},
+		"about": {
+			"title": "Acerca de Jujutsu Infinite - Análisis de Personajes y Contexto de la Historia",
+			"description": "Descubre la historia detrás de Jujutsu Infinite, retratada por T.O.P (Choi Seung-hyun). Aprende sobre el papel y el impacto de este personaje único y la fusión del drama distópico con la influencia de Marvel.",
+			"keywords": ""
+		},
+		"download": {
+			"title": "Descargar Consejos de Jujutsu Infinite - Obtén el Juego de Supervivencia Definitivo",
+			"description": "Descarga Consejos de Jujutsu Infinite ahora y experimenta los emocionantes desafíos de supervivencia. ¡Mira nuestro video de juego y únete a millones de jugadores en todo el mundo!",
+			"keywords": ""
+		},
+		"codes": {
+			"title": "Códigos de Jujutsu Infinite - Últimos Códigos Activos y Recompensas",
+			"description": "¡Encuentra todos los últimos códigos activos para Jujutsu Infinite! Canjea estos códigos por recompensas gratuitas, mejoras y objetos dentro del juego. ¡Actualizado regularmente con nuevos códigos!",
+			"keywords": ""
+		}
+	},
+	"Navigation": {
+		"title": "Códigos, Consejos y Guía de Juego de Jujutsu Infinite",
+		"logoAlt": "Logotipo de Jujutsu Infinite",
+		"logoTitle": "Jujutsu Infinite",
+		"playNow": "Inicio",
+		"toggleMenu": "Mostrar Menú",
+		"about": "Acerca de",
+		"download": "Descargar",
+		"codes": "Códigos"
+	},
+	"NotFound": {
+		"title": "404 No Encontrado",
+		"goHome": "ir a inicio"
+	},
+	"Home": {
+		"hero": {
+			"title": "Jujutsu Infinite",
+			"description": "¡Explora la guía definitiva de Jujutsu Infinite en Roblox! Encuentra los códigos más recientes, consejos de juego y listas de niveles. ¡Juega ahora y domina las técnicas malditas con facilidad!",
+			"playNow": "Jugar Ahora",
+			"robloxUrl": "https://www.roblox.com/games/18505741738/Jujutsu-Infinite-12-HOURS"
+		},
+		"videoSection": {
+			"title": "Videos Relacionados"
+		},
+		"introduction": {
+			"title": "Cómo Jugar Jujutsu Infinite",
+			"description": "¡Domina lo básico y conviértete en un profesional!",
+			"steps": [{
+				"title": "Comenzando con Jujutsu Infinite",
+				"description": "Para comenzar tu aventura en Jujutsu Infinite, visita la página oficial del juego en Roblox y lanza el juego. Personaliza tu personaje y elige tu técnica maldita innata para obtener poderes únicos. Familiarízate con los controles y la interfaz para navegar por el juego sin inconvenientes. ¡No olvides canjear los últimos códigos por recompensas gratuitas que te darán una ventaja!"
+			}, {
+				"title": "Dominando Técnicas Malditas y Mecánicas de Juego",
+				"description": "Jujutsu Infinite gira en torno a dominar técnicas malditas y participar en épicas batallas. Aprende a desbloquear y mejorar tus habilidades ganando puntos de experiencia a través de misiones y batallas. Experimenta con diferentes técnicas para descubrir las mejores combinaciones para tu estilo de juego. Mantente alerta durante los encuentros y practica la evasión y el tiempo para estrategias de combate eficaces."
+			}, {
+				"title": "Avanzando y Desbloqueando Recompensas",
+				"description": "Progresar en el juego completando misiones, derrotando enemigos poderosos y colaborando con otros jugadores. Gana moneda en el juego para desbloquear nuevas habilidades, equipamiento y mejoras. Mantente atento a eventos limitados y actualizaciones que traen nuevo contenido emocionante para mejorar tu experiencia de juego. Visita nuestro sitio web regularmente para consejos, guías y actualizaciones de códigos para mantenerte por delante en el juego!"
+			}]
+		},
+		"features": {
+			"title": "Características del Juego",
+			"description": "Descubre qué hace especial a Jujutsu Infinite",
+			"list": [{
+				"title": "Técnicas Malditas Únicas",
+				"description": "Descubre y domina una variedad de técnicas malditas innatas, cada una con sus propias habilidades únicas y estilos de combate. Personaliza tu personaje para adaptarlo a tu estilo de juego y domina las batallas."
+			}, {
+				"title": "Misiones y Desafíos Emocionantes",
+				"description": "Embárcate en misiones emocionantes y enfréntate a enemigos desafiantes mientras avanzas en el juego. Completa misiones para ganar recompensas, subir de nivel y desbloquear poderosas mejoras."
+			}, {
+				"title": "Batallas Multijugador y Colaboración",
+				"description": "Forma equipo con amigos o compite contra otros jugadores en intensas batallas multijugador. Pon a prueba tus habilidades en combate PvP o unete para enfrentar jefes poderosos."
+			}, {
+				"title": "Canje de Códigos por Recompensas Gratuitas",
+				"description": "Mantente por delante canjeando códigos por recompensas gratuitas, incluyendo moneda en el juego, mejoras y artículos exclusivos. Las actualizaciones regulares aseguran nuevos códigos y emocionantes beneficios."
+			}, {
+				"title": "Mundo Inmersivo Inspirado en Jujutsu Kaisen",
+				"description": "Explora un mundo del juego ricamente diseñado inspirado en la popular serie de anime Jujutsu Kaisen. Experimenta visuales impresionantes, entornos dinámicos y una jugabilidad emocionante."
+			}, {
+				"title": "Actualizaciones Constantes y Nuevo Contenido",
+				"description": "Disfruta de actualizaciones frecuentes que traen nuevas características, eventos y mejoras para mantener el juego emocionante. Mantente atento a nuevos desafíos y recompensas desbloqueables."
+			}]
+		},
+		"testimonials": {
+			"title": "Reseñas de Jugadores",
+			"description": "Mira lo que dicen los fanáticos sobre Jujutsu Infinite",
+			"list": [{
+				"content": "¡Jujutsu Infinite trae el mundo de Jujutsu Kaisen a la vida! Las técnicas malditas son tan únicas y las batallas son intensas. ¡No puedo dejar de jugar!",
+				"author": "@CursedFighter",
+				"title": "¡Una Aventura Épica!"
+			}, {
+				"content": "Los gráficos, misiones y mecánicas de combate son de primera. Siento que realmente estoy en el anime. ¡Además, las recompensas por códigos son una gran ventaja!",
+				"author": "@AnimeGamerX",
+				"title": "¡El Mejor Juego de Roblox!"
+			}, {
+				"content": "Desde formar equipo con amigos hasta explorar el mapa, este juego me mantiene enganchado. ¡Desbloquear nuevas habilidades es muy satisfactorio!",
+				"author": "@QuestMaster",
+				"title": "¡Atractivo y Divertido!"
+			}, {
+				"content": "Como fanático del anime, me encanta cómo han incorporado los temas en este juego. ¡Es desafiante, gratificante y muy divertido!",
+				"author": "@KaisenLover",
+				"title": "¡Un Juego Imprescindible para los Fans de Jujutsu Kaisen!"
+			}, {
+				"content": "Aprecio lo frecuente que se actualiza el juego con nuevos códigos, eventos y características. ¡Siempre hay algo nuevo que probar!",
+				"author": "@CodeHunter21",
+				"title": "¡Actualizaciones Constantes Lo Mantienen Fresco!"
+			}, {
+				"content": "El juego te hace pensar en tus movimientos mientras mantiene la acción rápida. ¡Es el equilibrio perfecto entre estrategia y diversión!",
+				"author": "@BattleTactician",
+				"title": "¡Perfecto Equilibrio entre Estrategia y Acción!"
+			}]
+		},
+		"faq": {
+			"title": "Preguntas Frecuentes",
+			"description": "¿Tienes preguntas? ¡Tenemos respuestas!",
+			"list": [{
+				"question": "¿Qué es Jujutsu Infinite?",
+				"answer": "Jujutsu Infinite es un popular juego de Roblox inspirado en el anime Jujutsu Kaisen. Los jugadores pueden dominar técnicas malditas, completar misiones y participar en épicas batallas."
+			}, {
+				"question": "¿Cómo juego Jujutsu Infinite?",
+				"answer": "Visita la página del juego en Roblox, lánzalo y crea tu personaje. Sigue el tutorial para aprender lo básico y comienza tu aventura completando misiones y luchando contra enemigos."
+			}, {
+				"question": "¿Hay códigos para Jujutsu Infinite?",
+				"answer": "¡Sí! Los códigos se publican regularmente y se pueden canjear por recompensas como moneda en el juego y mejoras. Consulta nuestro sitio web para los últimos códigos."
+			}, {
+				"question": "¿Cómo canjeo códigos en Jujutsu Infinite?",
+				"answer": "Para canjear códigos, abre el juego, navega a la sección de canje de códigos (generalmente en la configuración o menú), ingresa el código y reclama tus recompensas."
+			}, {
+				"question": "¿Puedo jugar Jujutsu Infinite con amigos?",
+				"answer": "¡Absolutamente! Jujutsu Infinite admite juego multijugador. Puedes colaborar con amigos para completar misiones y derrotar jefes o desafiarles en batallas PvP."
+			}, {
+				"question": "¿Qué son las técnicas malditas en Jujutsu Infinite?",
+				"answer": "Las técnicas malditas son habilidades únicas que otorgan a los jugadores poderes especiales en combate. Cada técnica tiene sus propias fortalezas y puede mejorarse a medida que avanzas."
+			}, {
+				"question": "¿Cómo subo de nivel mi personaje?",
+				"answer": "Puedes subir de nivel completando misiones, derrotando enemigos y participando en batallas. Ganar puntos de experiencia (XP) te ayudará a desbloquear nuevas habilidades y equipo."
+			}, {
+				"question": "¿Hay compras dentro del juego en Jujutsu Infinite?",
+				"answer": "Sí, puedes comprar moneda y artículos en el juego para mejorar tu experiencia. Sin embargo, el juego es totalmente jugable sin gastar dinero real."
+			}, {
+				"question": "¿Es Jujutsu Infinite amigable para principiantes?",
+				"answer": "¡Sí! El juego cuenta con un tutorial para nuevos jugadores y muchas guías para ayudarte a comenzar. Además, los códigos y las recompensas gratuitas facilitan el progreso."
+			}, {
+				"question": "¿Con qué frecuencia se actualiza Jujutsu Infinite?",
+				"answer": "Los desarrolladores actualizan regularmente el juego con nuevo contenido, eventos y características. ¡Asegúrate de verificar actualizaciones y mantente atento a nuevos desafíos y recompensas!"
+			}]
+		}
+	},
+	"Footer": {
+		"title": "Códigos, Consejos y Guía de Juego de Jujutsu Infinite",
+		"subTitle": "¡Explora la guía definitiva de Jujutsu Infinite en Roblox!",
+		"support": "Soporte",
+		"privacy": "Política de privacidad",
+		"termsConditions": "Términos y condiciones"
+	},
+	"FooterNavigation": {
+		"privacyPolicy": {
+			"1-h1": "Política de Privacidad de Jujutsu Infinite",
+			"1-p": "Jujutsu Infinite opera el sitio web https://jujutsuinfinite.fun y se compromete a proteger tu privacidad. Esta política de privacidad describe cómo manejamos la información cuando utilizas nuestra guía de juego en línea.",
+			"2-h2": "Recopilación de Información",
+			"2-h3-1": "Datos Personales",
+			"2-p-1": "No recopilamos ninguna información de identificación personal de los usuarios. Nuestro servicio está diseñado para usarse sin requerir datos personales.",
+			"2-h3-2": "Datos No Personales",
+			"2-p-3": "Recopilamos datos no personales a través de cookies web, incluyendo estadísticas de uso y preferencias, para mejorar nuestro servicio y experiencia del usuario. Esto puede incluir tus configuraciones de visualización y preferencias de personalización.",
+			"3-h2": "Uso de Datos",
+			"3-p": "Cualquier dato no personal recopilado se utiliza únicamente para mejorar la funcionalidad de nuestro sitio web y la experiencia del usuario. No compartimos ningún dato con terceros.",
+			"4-h2": "Actualizaciones a Esta Política de Privacidad",
+			"6-h2": "Contáctanos",
+			"6-p": "Si tienes alguna pregunta sobre esta Política de Privacidad, por favor contáctanos en support@jujutsuinfinite.fun."
+		},
+		"termsConditions": {
+			"1-h1": "Términos de Servicio de Jujutsu Infinite",
+			"1-p": "Bienvenido a Jujutsu Infinite. Al acceder a nuestro sitio web (https://jujutsuinfinite.fun), aceptas estos Términos de Servicio. Nuestro servicio proporciona una guía integral para el juego de Roblox Jujutsu Infinite.",
+			"2-h2": "1. Propiedad",
+			"2-p": "Todo el contenido del sitio web, incluyendo guías, consejos, códigos, elementos de diseño y materiales relacionados, es propiedad intelectual de Jujutsu Infinite a menos que se indique lo contrario. El contenido de texto creado por los usuarios sigue siendo propiedad de estos.",
+			"3-h2": "2. Directrices de Uso",
+			"3-p": "Nuestro servicio se proporciona con fines informativos y educativos. Los usuarios son responsables de su conducta y no deben utilizar el servicio para fines ilegales o perjudiciales.",
+			"4-h2": "3. Ley Aplicable",
+			"4-p": "Estos Términos se regirán por las leyes aplicables, sin tener en cuenta los principios de conflictos de leyes.",
+			"5-h2": "4. Cambios en los Términos",
+			"5-p": "Jujutsu Infinite se reserva el derecho de modificar estos Términos en cualquier momento. Los cambios serán efectivos inmediatamente al ser publicados en el sitio web. Tu uso continuo del servicio constituye aceptación de cualquier cambio.",
+			"6-h2": "5. Información de Contacto",
+			"6-p": "Si tienes alguna pregunta sobre estos Términos, por favor contáctanos en support@jujutsuinfinite.fun.",
+			"last-p": "Al usar Jujutsu Infinite, reconoces que has leído y aceptas estos Términos de Servicio."
+		}
+	},
+	"About": {
+		"title": "Acerca de Jujutsu Infinite",
+		"subtitle": "Tu Guía Definitiva para el Mundo de Jujutsu Infinite",
+		"content": {
+			"introTitle": "Bienvenido",
+			"intro": "Bienvenido al destino definitivo para todo lo relacionado con Jujutsu Infinite, el emocionante juego de Roblox inspirado en la obra maestra de anime Jujutsu Kaisen. Esta página sirve como tu guía completa para el mundo de Jujutsu Infinite, donde puedes explorar mecánicas de juego, características únicas y la vibrante comunidad que hace que este juego sea realmente especial.",
+			"whatIsTitle": "¿Qué es Jujutsu Infinite?",
+			"whatIs": "Jujutsu Infinite es un popular juego en Roblox que lleva a los jugadores a un mundo lleno de acción repleto de técnicas malditas, batallas épicas y misiones inmersivas. Inspirado en Jujutsu Kaisen, trae la esencia del anime a una experiencia de juego dinámica. Ya seas fanático del anime o nuevo en su universo, Jujutsu Infinite ofrece una aventura rica y atractiva para jugadores de todos los niveles de habilidad.",
+			"whatIsExtra": "En el juego, los jugadores emprenden un viaje para dominar técnicas malditas, luchar contra enemigos poderosos y subir de nivel sus personajes a través de varios desafíos. Con actualizaciones frecuentes, eventos emocionantes y una comunidad vibrante, Jujutsu Infinite mantiene a los jugadores enganchados durante horas de juego.",
+			"featuresTitle": "Características Clave de Jujutsu Infinite",
+			"features": {
+				"cursedTechniques": {
+					"title": "Técnicas Malditas Únicas",
+					"description": "En el corazón de Jujutsu Infinite se encuentran sus técnicas malditas. Estas habilidades únicas definen tu estilo de juego y determinan tu éxito en las batallas. Desde ataques a larga distancia hasta devastadores movimientos en combate cuerpo a cuerpo, la variedad de técnicas asegura que cada jugador pueda encontrar un estilo que le convenga."
+				},
+				"quests": {
+					"title": "Misiones y Desafíos Emocionantes",
+					"description": "El juego ofrece una serie de misiones que ponen a prueba tus habilidades y recompensan tus esfuerzos. Completar misiones no solo te ayuda a progresar, sino que también desbloquea nuevas habilidades y recompensas. Las batallas contra jefes añaden una capa adicional de emoción, desafiando a los jugadores a estrategizar y trabajar en equipo."
+				},
+				"multiplayer": {
+					"title": "Colaboración Multijugador y Batallas PvP",
+					"description": "Jujutsu Infinite prospera en su modo multijugador. Une fuerzas con amigos para enfrentar desafíos difíciles o pon a prueba tus habilidades contra otros jugadores en emocionantes batallas PvP. Los aspectos cooperativos y competitivos hacen que el juego sea muy atractivo."
+				},
+				"world": {
+					"title": "Mundo Inmersivo Inspirado en el Anime",
+					"description": "El mundo del juego captura la esencia de Jujutsu Kaisen con impresionantes visuales y entornos dinámicos. Explora paisajes detallados, interactúa con NPCs e inmérgete en un mundo lleno de sorpresas."
+				},
+				"codes": {
+					"title": "Recompensas y Regalos por Códigos",
+					"description": "Los jugadores pueden canjear códigos por recompensas gratuitas como moneda en el juego, mejoras de poder y artículos exclusivos. Las actualizaciones regulares aseguran que siempre haya nuevos códigos para reclamar, ayudándote a mantenerte por delante en el juego."
+				},
+				"updates": {
+					"title": "Actualizaciones Constantes y Nuevo Contenido",
+					"description": "Los desarrolladores de Jujutsu Infinite están comprometidos en entregar contenido fresco a través de actualizaciones regulares. Desde nuevas técnicas malditas hasta eventos especiales, siempre hay algo emocionante que esperar."
+				}
+			},
+			"howToPlayTitle": "Cómo Jugar Jujutsu Infinite",
+			"howToPlay": [{
+				"title": "Lanza el Juego",
+				"description": "Visita la página oficial de Roblox para Jujutsu Infinite y comienza el juego. Crea tu personaje y selecciona tu técnica maldita innata."
+			}, {
+				"title": "Completa Misiones",
+				"description": "Comienza tu aventura completando misiones. Estas misiones te presentarán las mecánicas del juego, te ayudarán a subir de nivel y ganar recompensas."
+			}, {
+				"title": "Domina las Mecánicas de Combate",
+				"description": "El combate es un elemento esencial de Jujutsu Infinite. Practica usando tus técnicas malditas y perfecciona tus habilidades para dominar en las batallas."
+			}, {
+				"title": "Forma Equipo o Compite",
+				"description": "Une fuerzas con otros jugadores para asumir misiones desafiantes o prueba tu fuerza en batallas PvP."
+			}, {
+				"title": "Canjea Códigos",
+				"description": "Asegúrate de canjear los últimos códigos por bonificaciones y artículos exclusivos que te den una ventaja en el juego."
+			}],
+			"tipsTitle": "Consejos para Tener Éxito en Jujutsu Infinite",
+			"tips": [{
+				"title": "Experimenta con Técnicas",
+				"description": "Prueba diferentes técnicas malditas para encontrar la que se adapte a tu estilo de juego. La experimentación es clave para dominar el juego."
+			}, {
+				"title": "Mantente Actualizado",
+				"description": "Mantente atento a las actualizaciones del juego y nuevos códigos. Consultar regularmente la página oficial o las páginas de fans asegura que nunca te pierdas recompensas valiosas."
+			}, {
+				"title": "Colabora con Otros Jugadores",
+				"description": "El trabajo en equipo a menudo lleva al éxito en misiones difíciles. Haz equipo con jugadores experimentados para aprender estrategias avanzadas."
+			}, {
+				"title": "Invierte en Mejoras",
+				"description": "Usa la moneda en el juego sabiamente para desbloquear y mejorar habilidades. Esto puede darte una ventaja significativa en las batallas."
+			}, {
+				"title": "Participa en Eventos",
+				"description": "Los eventos por tiempo limitado a menudo proporcionan recompensas exclusivas y experiencias de juego únicas. ¡No te pierdas estas oportunidades!"
+			}],
+			"communityTitle": "La Comunidad Detrás de Jujutsu Infinite",
+			"community": "La comunidad de Jujutsu Infinite es una de las más vibrantes y acogedoras en Roblox. Los jugadores comparten activamente consejos, estrategias y actualizaciones de códigos en plataformas como Discord y Reddit. Ya sea que busques consejos, un equipo para unirte o simplemente algunas conversaciones divertidas, la comunidad añade una capa extra de disfrute al juego.",
+			"faqTitle": "Preguntas Frecuentes",
+			"faq": [{
+				"question": "¿De qué trata Jujutsu Infinite?",
+				"answer": "Es un juego de Roblox inspirado en Jujutsu Kaisen, donde los jugadores dominan técnicas malditas, completan misiones y participan en batallas."
+			}, {
+				"question": "¿Cómo canjeo códigos?",
+				"answer": "Los códigos se pueden canjear en el menú del juego. Simplemente ingresa el código en el campo designado y reclama tus recompensas."
+			}, {
+				"question": "¿Puedo jugar con amigos?",
+				"answer": "¡Sí! El modo multijugador permite que te unas a amigos o les desafíes en PvP."
+			}, {
+				"question": "¿Hay compras dentro del juego?",
+				"answer": "Sí, los jugadores pueden comprar moneda y artículos, aunque el juego es completamente jugable sin gastar dinero real."
+			}, {
+				"question": "¿Con qué frecuencia se actualiza el juego?",
+				"answer": "Los desarrolladores lanzan actualizaciones frecuentes con nuevo contenido, características y códigos."
+			}],
+			"conclusionTitle": "Únete a la Aventura Hoy",
+			"conclusion": "Ya seas fanático de Jujutsu Kaisen o un jugador en busca de emocionantes aventuras, Jujutsu Infinite ofrece una experiencia inolvidable. Desde dominar técnicas malditas hasta colaborar con una apasionada comunidad, el juego ofrece una emoción sin fin. ¡Comienza tu viaje hoy y conviértete en una leyenda en el mundo de Jujutsu Infinite!"
+		}
+	},
+	"Codes": {
+		"title": "Códigos de Jujutsu Infinite",
+		"subtitle": "Obtén los Últimos Códigos Activos y Recompensas",
+		"videoSection": {
+			"title": "Cómo Canjear Códigos",
+			"description": "Mira nuestra guía rápida sobre cómo canjear códigos en Jujutsu Infinite"
+		},
+		"introduction": {
+			"title": "Acerca de los Códigos de Jujutsu Infinite",
+			"description": "Los códigos son recompensas especiales proporcionadas por los desarrolladores del juego que se pueden canjear por varios artículos en el juego, moneda y mejoras. Estos códigos se lanzan regularmente para celebrar hitos, actualizaciones o eventos especiales. ¡Asegúrate de canjearlos rápidamente ya que pueden expirar!"
+		},
+		"howToRedeem": {
+			"title": "Cómo Canjear Códigos",
+			"steps": [{
+				"title": "1. Lanza el Juego",
+				"description": "Inicia Jujutsu Infinite en Roblox y espera a que el juego se cargue completamente."
+			}, {
+				"title": "2. Abre el Menú de Códigos",
+				"description": "Haz clic en el botón del Menú (generalmente representado por tres líneas o un ícono de engranaje), luego busca la opción 'Códigos' o 'Canjea Código'."
+			}, {
+				"title": "3. Ingresa el Código",
+				"description": "Escribe o pega el código exactamente como se muestra (los códigos son sensibles a mayúsculas y minúsculas). Revisa si hay errores tipográficos o espacios."
+			}, {
+				"title": "4. Reclama Tu Recompensa",
+				"description": "Haz clic en el botón 'Canjear' o 'Enviar'. Si el código es válido, ¡recibirás tus recompensas de inmediato!"
+			}]
+		},
+		"activeCodes": {
+			"title": "Códigos Activos (Actualizados Regularmente)",
+			"description": "Aquí están todos los códigos actualmente activos para Jujutsu Infinite. Actualizamos esta lista regularmente a medida que se lanzan nuevos códigos y otros expiran.",
+			"note": "Nota: Los códigos son sensibles a mayúsculas y minúsculas y deben ser ingresados exactamente como se muestra",
+			"list": [{
+				"code": "TWITTER_75_YAY",
+				"reward": "100 Giros + 1h Doble EXP",
+				"description": "Celebración de hito de Twitter"
+			}, {
+				"code": "HAPPY_2025",
+				"reward": "100 Giros + 1h Doble EXP + Doble Maestría",
+				"description": "Celebración de Año Nuevo"
+			}, {
+				"code": "50K_FOLLOWERS",
+				"reward": "50 Giros + 1h Doble EXP",
+				"description": "Hito de redes sociales"
+			}, {
+				"code": "MERRY_CHRISTMAS",
+				"reward": "100 Giros",
+				"description": "Celebración de Navidad"
+			}, {
+				"code": "RELEASE",
+				"reward": "200 Giros",
+				"description": "Celebración del lanzamiento del juego"
+			}],
+			"expired": {
+				"title": "Códigos Expirados para Referencia",
+				"description": "Estos códigos ya no están activos, pero dan una idea de las recompensas pasadas disponibles en el juego:",
+				"list": [{
+					"code": "JJ_SHUTDOWN",
+					"reward": "25 Giros"
+				}, {
+					"code": "BACK_UP_AGAIN",
+					"reward": "25 Giros + 1h Doble EXP"
+				}, {
+					"code": "TOP_SECRET",
+					"reward": "150 Giros"
+				}, {
+					"code": "MISSION_SHUTDOWN",
+					"reward": "50 Giros"
+				}, {
+					"code": "RELEASE_SHUTDOWN_SRRY",
+					"reward": "200 Giros"
+				}, {
+					"code": "WAVE3_PATCH",
+					"reward": "Giros"
+				}, {
+					"code": "WELCOME_WAVE3",
+					"reward": "Giros"
+				}, {
+					"code": "DIM_MAX",
+					"reward": "Giros"
+				}, {
+					"code": "UPDATE_3",
+					"reward": "Giros"
+				}, {
+					"code": "350K_YAY",
+					"reward": "Giros"
+				}, {
+					"code": "ROLLBACK_SRRY",
+					"reward": "Giros"
+				}]
+			}
+		},
+		"tips": {
+			"title": "Consejos para el Canje de Códigos",
+			"list": [{
+				"title": "Revisa Regularmente",
+				"description": "Los nuevos códigos a menudo se publican durante actualizaciones, eventos y hitos. Revisa nuestra página regularmente para los últimos códigos."
+			}, {
+				"title": "Actúa Rápido",
+				"description": "Los códigos pueden expirar sin aviso. Canjéalos lo antes posible para asegurarte de no perder recompensas."
+			}, {
+				"title": "Sigue los Canales Oficiales",
+				"description": "Sigue las cuentas oficiales en redes sociales del juego y únete a su servidor de Discord para anuncios de códigos."
+			}, {
+				"title": "Marca Esta Página como Favorita",
+				"description": "Actualizamos nuestra lista de códigos regularmente. Marca esta página como favorita para mantenerte informado sobre nuevos códigos y recompensas."
+			}]
+		},
+		"commonIssues": {
+			"title": "Problemas Comunes y Soluciones",
+			"list": [{
+				"problem": "Código No Funciona",
+				"solution": "Asegúrate de ingresar el código exactamente como se muestra, incluyendo cualquier letra mayúscula o caracteres especiales. Los códigos son sensibles a mayúsculas y minúsculas."
+			}, {
+				"problem": "Ya Canjeado",
+				"solution": "Cada código se puede canjear solo una vez por cuenta. Prueba con un código diferente si ya has utilizado este."
+			}, {
+				"problem": "Código Expirado",
+				"solution": "Los códigos eventualmente expiran. Consulta nuestra sección de códigos activos para conocer los últimos códigos en funcionamiento."
+			}]
+		},
+		"updates": {
+			"title": "Actualizaciones de Códigos y Noticias",
+			"description": "Constantemente monitoreamos en busca de nuevos códigos de Jujutsu Infinite y actualizamos esta página tan pronto como se publican. ¡Síguenos en redes sociales o únete a nuestra comunidad de Discord para recibir notificaciones instantáneas sobre nuevos códigos!"
+		}
+	}
 }
